@@ -5,9 +5,9 @@
 // @grant       none
 // @version     1.0
 // @author      A-E-
-// @homepageURL https://github.com/easrng/fix-broken-images
-// @supportURL  https://github.com/easrng/fix-broken-images/issues
-// @updateURL   https://easrng.github.io/fix-broken-images/f-b-i.user.js
+// @homepageURL https://github.com/easrng/broken-image-fixer
+// @supportURL  https://github.com/easrng/broken-image-fixer/issues
+// @updateURL   https://easrng.github.io/broken-image-fixer/b-i-f.user.js
 // @description Fixes the broken images resulting from the Wikimedia Open Redirect fix, plus tries to fix some Tinypic images.
 // ==/UserScript==
 
